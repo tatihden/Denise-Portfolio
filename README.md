@@ -1,6 +1,6 @@
 # Denise-Portfolio
 
-![](images/20221124_180115.jpg)
+![](Denise-Screenshot.png)
 
 Skills and tools showcase
 
