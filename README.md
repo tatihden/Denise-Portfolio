@@ -1,4 +1,7 @@
 # Denise-Portfolio
+
+![]([http://url/to/img.png](https://github.com/tatihden/Denise-Portfolio/blob/main/images/20221124_180115.jpg))
+
 Skills and tools showcase
 
 # Project1: [Predicting Restaurant Closures with Customer Reviews and Restaurant Characteristics](https://docs.google.com/document/d/11uNTlVZDDyYJy-wPv6fXqhLzmEQFPGOQ/edit?usp=sharing&ouid=117891100179930901075&rtpof=true&sd=true)
