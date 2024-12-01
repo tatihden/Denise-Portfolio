@@ -1,6 +1,6 @@
 # Denise-Portfolio
 
-![]([http://url/to/img.png](https://github.com/tatihden/Denise-Portfolio/blob/main/images/20221124_180115.jpg))
+![](images/20221124_180115.jpg)
 
 Skills and tools showcase
 
