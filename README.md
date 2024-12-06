@@ -25,4 +25,4 @@ Skills and tools showcase
 The skill assessment challenge was a component of the application and allowed the program team to validate hands-on experience in data science. Evaluation was done using Root Mean Squared Error (RMSE). Prediction was done using [kaggle notebooks](https://www.kaggle.com/code/denisemtatih/kagglex-cars/notebook) and SAS Enterprise miner. (Ranked 73 out of 1846 submissions)[https://www.kaggle.com/code/denisemtatih/kagglex-cars/output?select=submission4.csv). 
 
 # Presentation Skills
-Screen_Recording_20241205_223300_WPS Office.mp4
+[Screen_Recording_20241205_223300_WPS Office.mp4](https://drive.google.com/file/d/1G7xXMWUXWyQ5qEmSvQWhdFyF_hC7WyI9/view?usp=drive_link)
