@@ -4,7 +4,7 @@
 
 Skills and tools showcase
 
-# Project1: [Predicting Restaurant Closures with Customer Reviews and Restaurant Characteristics](https://docs.google.com/document/d/11uNTlVZDDyYJy-wPv6fXqhLzmEQFPGOQ/edit?usp=sharing&ouid=117891100179930901075&rtpof=true&sd=true)
+# Multiple models (Regression, neural network, decision trees on SAS Enterprise Miner: [Predicting Restaurant Closures with Customer Reviews and Restaurant Characteristics](https://docs.google.com/document/d/11uNTlVZDDyYJy-wPv6fXqhLzmEQFPGOQ/edit?usp=sharing&ouid=117891100179930901075&rtpof=true&sd=true)
 
 1. Obtain data from [Yelp’s 2021 Academic Challenge Dataset](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset) on Kaggle
 2. Extract review and business csv out of 5 csv files
@@ -13,7 +13,7 @@ Skills and tools showcase
 5. Load clean dataset on to SAS Enterprise miner
 6. Predict and compare restaurant closure for years 2018-2019 and 2020-2021
  
-# Project 2: CalmChat: A mental health conversational agent
+# Fine-Tuning large language model (Gemma 2b & 7b models) CalmChat: A mental health conversational agent
 1. Collect data from 4 datasets on hugging face
 2. Synthesize data to complement collected data
 3. Clean data
@@ -21,5 +21,8 @@ Skills and tools showcase
 5. Deploy fine-tuned models to [Kaggle](https://www.kaggle.com/models/denisemtatih/gemma_mental_health) and [Hugging Face](https://huggingface.co/tatihden)
 6. Build a [chat interface](https://huggingface.co/spaces/tatihden/CalmChat) using Hugging Face spaces
 
-# Project 3: [KaggleX Skill Assessment Challenge](https://www.kaggle.com/competitions/kagglex-cohort4)
+# Machine learning (Regression with scikit learn): [KaggleX Skill Assessment Challenge](https://www.kaggle.com/competitions/kagglex-cohort4)
 The skill assessment challenge was a component of the application and allowed the program team to validate hands-on experience in data science. Evaluation was done using Root Mean Squared Error (RMSE). Prediction was done using [kaggle notebooks](https://www.kaggle.com/code/denisemtatih/kagglex-cars/notebook) and SAS Enterprise miner. (Ranked 73 out of 1846 submissions)[https://www.kaggle.com/code/denisemtatih/kagglex-cars/output?select=submission4.csv). 
+
+# Presentation Skills
+Screen_Recording_20241205_223300_WPS Office.mp4
