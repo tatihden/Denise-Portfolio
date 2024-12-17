@@ -28,4 +28,4 @@ The skill assessment challenge was a component of the application and allowed th
 [Screen_Recording_20241205_223300_WPS Office.mp4](https://drive.google.com/file/d/1G7xXMWUXWyQ5qEmSvQWhdFyF_hC7WyI9/view?usp=drive_link)
 
 # Certificates
-![](Screenshot 2024-12-17 043236.png)
+![](https://github.com/tatihden/Denise-Portfolio/blob/main/Screenshot%202024-12-17%20043236.png)
