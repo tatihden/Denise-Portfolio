@@ -1,10 +1,9 @@
 ![](Denise-Screenshot.png)
 
-# Denise Tatih
-# [LinkedIn Certifications](https://www.linkedin.com/in/denise-tatih-438861112/details/certifications/)
-
-
-
+# Denise Tatih, international MT ASCP, MSBA-University of Central Oklahoma, GPA 3.54
+[LinkedIn Certifications](https://www.linkedin.com/in/denise-tatih-438861112/details/certifications/)
+[Kaggle models](https://www.kaggle.com/models/denisemtatih/gemma_mental_health)
+[Kaggle profile](https://www.kaggle.com/denisemtatih)
 
 # Skills and tools showcase
 
