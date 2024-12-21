@@ -28,9 +28,9 @@ The skill assessment challenge was a component of the application and allowed th
 [Screen_Recording_20241205_223300_WPS Office.mp4](https://drive.google.com/file/d/1G7xXMWUXWyQ5qEmSvQWhdFyF_hC7WyI9/view?usp=drive_link)
 
 # Certificates
-![](https://github.com/tatihden/Denise-Portfolio/blob/main/Screenshot%202024-12-17%20043236.png)
-[SAS Programmer Professional Certificate: Issued on April 11, 2024 by Coursera, Authorized by SAS](https://www.credly.com/earner/earned/badge/6fb4dfbd-bd19-42ed-a563-57413be7c8cb)
-[SAS Certified Predictive Modeler Using SAS Enterprise Miner 14 issued by SAS on 12/15/2022](https://www.credly.com/earner/earned/badge/e9518436-6035-4257-b37e-55f4c16506c4)
-[SAS Certified Specialist: Base Programming Using SAS 9.4 issued by SAS on 08/02/2023](https://www.credly.com/earner/earned/badge/15feccb1-2436-48ea-a36d-8ba7c599610c)
+1. ![](https://github.com/tatihden/Denise-Portfolio/blob/main/Screenshot%202024-12-17%20043236.png)
+2. [SAS Programmer Professional Certificate: Issued on April 11, 2024 by Coursera, Authorized by SAS](https://www.credly.com/earner/earned/badge/6fb4dfbd-bd19-42ed-a563-57413be7c8cb)
+3. [SAS Certified Predictive Modeler Using SAS Enterprise Miner 14 issued by SAS on 12/15/2022](https://www.credly.com/earner/earned/badge/e9518436-6035-4257-b37e-55f4c16506c4)
+4. [SAS Certified Specialist: Base Programming Using SAS 9.4 issued by SAS on 08/02/2023](https://www.credly.com/earner/earned/badge/15feccb1-2436-48ea-a36d-8ba7c599610c)
 
 
