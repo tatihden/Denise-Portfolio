@@ -3,6 +3,9 @@
 # Denise Tatih
 # [LinkedIn Certifications](https://www.linkedin.com/in/denise-tatih-438861112/details/certifications/)
 
+
+
+
 # Skills and tools showcase
 
 # Multiple models (Regression, neural network, decision trees on SAS Enterprise Miner: 
