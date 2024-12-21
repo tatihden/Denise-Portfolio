@@ -1,7 +1,7 @@
+![](Denise-Screenshot.png)
+
 # Denise Tatih
 # [LinkedIn Certifications](https://www.linkedin.com/in/denise-tatih-438861112/details/certifications/)
-
-![](Denise-Screenshot.png)
 
 # Skills and tools showcase
 
