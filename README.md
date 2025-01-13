@@ -1,5 +1,10 @@
 ![](Denise-Screenshot.png)
 
+# Bio
+I am Denise Tatih a medical laboratory scientist with 14 years of experience. I specialize in reviewing patient data obtained by testing a variety of human samples for a variety of laboratory panels. In this role, I analyze trends and shifts in patient data in order to determine the validy of patient results. I perform the role of Key operator for the Coagulation analyzer. In this role, I perform routine comparison studies using data obtained by testing patient samples or standardized materia with different lot numbers of reagents, quality control material and calibartors. It is my job to ensure that different lot numbers correlate well and that complimentary instruments perform within the set limits for accuracy, precision and linearity. 
+
+I am a graduate with a masters degree in business analytics from the university of Central Oklahoma and a Bachelors degree in Medical laboratory Sciences from the University of Buea. I am a certified International Medical Technologist with ASCP. I am certified as a SAS predictive analyst with SAS enterprise miner and a base SAS programmer. I have completed a fellowship with KaggleX where I gained experience in LLMs and Chatbot programming. 
+
 # Denise Tatih, international MT ASCP, MSBA-University of Central Oklahoma, GPA 3.54
 [LinkedIn Certifications](https://www.linkedin.com/in/denise-tatih-438861112/details/certifications/)
 [Kaggle models](https://www.kaggle.com/models/denisemtatih/gemma_mental_health)
